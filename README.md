@@ -38,7 +38,7 @@ The notebook will guide you through the following steps:
 
 Data preprocessing: Loading and augmenting the CIFAR dataset.
 
-Model training: Training a classification model without adversarial training.
+Model training: Training a VGG classification model without adversarial training.
 
 Adversarial attack: Performing a projected gradient descent (PGD) attack on the trained model.
 
